@@ -1,3 +1,3 @@
 # Color-Flipper
 
-FCC project: Button that changes body-tag backgroung color 
+FCC project: Button that changes body-tag background color 
